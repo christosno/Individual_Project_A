@@ -18,9 +18,9 @@ scheme or a Part Time, a 24 weeks afternoon classes scheme.
 |CB13PTPY|Python|Python 24 weeks|Part Time|
 <br>
 - Also, there are Trainers under each course with the following details, 
->> First Name
->> Last Name
->> Subject
+>> - First Name
+>> - Last Name
+>> - Subject
 ---
 - On this PART A, you are required to build a command prompt (shell) application.<br>
 - The application must ask from the command prompt to input data to all the data <br>
