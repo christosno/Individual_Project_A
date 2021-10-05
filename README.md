@@ -6,7 +6,7 @@
 <br>
 - During the development of this project, you need to do the implementation of a private school 
 structure <br>
-### Design of a Private School Structure
+### Design of a Private School Structure  <br>
 Assume that there are four (4) courses in programming languages: C#, Java, JavaScript and 
 Python.<br>
 Every course has a title, a description and the type of it, Full Time for a 12 weeks morning classes 
