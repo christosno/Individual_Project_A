@@ -3,16 +3,7 @@
 >>> ###Individual Project <br>
 >>> #### Python - Part A
 ---
-<br>
-- During the development of this project, you need to do the implementation of a private school 
-structure <br>
-### Design of a Private School Structure  <br>
-Assume that there are four (4) courses in programming languages: C#, Java, JavaScript and 
-Python.<br>
-Every course has a title, a description and the type of it, Full Time for a 12 weeks morning classes 
-scheme or a Part Time, a 24 weeks afternoon classes scheme.<br>
-For example, the following courses might exist
----
+
 - On this PART A, you are required to build a command prompt (shell) application.<br>
 - The application must ask from the command prompt to input data to all the data <br>
 structures and it should give the option to add more than one entry at a time .<br>
