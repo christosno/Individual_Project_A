@@ -4,10 +4,12 @@
 >>> #### Python - Part A
 ---
 
+### Design of a Private School Structure
+
 - On this PART A, you are required to build a command prompt (shell) application.<br>
 - The application must ask from the command prompt to input data to all the data <br>
 structures and it should give the option to add more than one entry at a time .<br>
-- If the user decides not to type any data, the program should use dummy data .<br>
+- If the user decides not to type any data, the program should use dummy data .<br><br>
 
 Also, your program must be able to output the following:
 
