@@ -13,6 +13,7 @@ scheme or a Part Time, a 24 weeks afternoon classes scheme.
 - For example, the following courses might exist:
 
 |Course title|Course Language|Course Description|Course Type|
+|------------|---------------|------------------|-----------|
 |CB13FTPY|Python|Python 12 weeks|Full Time|
 ---
 - On this PART A, you are required to build a command prompt (shell) application.<br>
