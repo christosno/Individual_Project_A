@@ -18,10 +18,23 @@ scheme or a Part Time, a 24 weeks afternoon classes scheme.
 |CB13FTPY|Python|Python 12 weeks|Full Time|
 |CB13PTPY|Python|Python 24 weeks|Part Time|
 ***
-+ Also the are **Trainers** under  each course with the following details,
++ Also the are **Trainers** under each course with the following details,
     - First Name
     - Last Name
     - Subject
+    
++ Also the are **Students** under each course with the following details,
+    - First Name
+    - Last Name
+    - Date of Birth
+    - Tuition Fees
+
++ Also the are **Assignments** under each course with the following details,
+    - Title
+    - Description
+    - Date of Submission
+    - Mark for the Submitted Code
+    - Mark for the Oral Mark
 
 ---
 ---
