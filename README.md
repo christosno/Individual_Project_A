@@ -8,6 +8,9 @@
 
 - Assume that there are four (4) courses in programming languages: C#, Java, JavaScript and 
 Python
+- Every course has a title, a description and the type of it, Full Time for a 12 weeks morning classes 
+scheme or a Part Time, a 24 weeks afternoon classes scheme.
+- For example, the following courses might exist:
 
 ---
 - On this PART A, you are required to build a command prompt (shell) application.<br>
