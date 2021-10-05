@@ -36,6 +36,9 @@ scheme or a Part Time, a 24 weeks afternoon classes scheme.
     - Mark for the Submitted Code
     - Mark for the Oral Mark
 
+- This private school supports multiple courses.
+- Each course can have multiple trainers, students and assignments.
+
 ---
 ---
 - On this PART A, you are required to build a command prompt (shell) application.<br>
