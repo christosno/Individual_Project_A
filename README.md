@@ -15,6 +15,7 @@ scheme or a Part Time, a 24 weeks afternoon classes scheme.
 |Course title|Course Language|Course Description|Course Type|
 |------------|---------------|------------------|-----------|
 |CB13FTPY|Python|Python 12 weeks|Full Time|
+|CB13PTPY|Python|Python 24 weeks|Part Time|
 ---
 - On this PART A, you are required to build a command prompt (shell) application.<br>
 - The application must ask from the command prompt to input data to all the data <br>
