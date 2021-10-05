@@ -2,7 +2,7 @@
 ---
 >>> Individual Project / Python
 ---
-On this PART A, you are required to build a command prompt (shell) application.
+On this PART A, you are required to build a command prompt (shell) application.<br>
 The application must ask from the command prompt to input data to all the data 
 structures and it should give the option to add more than one entry at a time [10 
 marks].
